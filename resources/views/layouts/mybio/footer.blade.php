@@ -5,7 +5,6 @@
     </div>
 </footer>
 
-<script src="{{asset('js/app.js')}}" ></script>
 <script src="vendor/mobirise/assets/web/assets/jquery/jquery.min.js" ></script>
 <script src="vendor/mobirise/assets/tether/tether.min.js" ></script>
 <script src="vendor/mobirise/assets/bootstrap/js/bootstrap.min.js" ></script>

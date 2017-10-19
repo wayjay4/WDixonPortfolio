@@ -12,23 +12,23 @@
 */
 
 Route::get('/', function () {
-    return view('/mybio2/index');
+    return view('/mybio/index');
 });
 
 Route::get('/about', function () {
-    return view('/mybio2/about');
+    return view('/mybio/about');
 });
 
 Route::get('/skills', function () {
-    return view('/mybio2/skills');
+    return view('/mybio/skills');
 });
 
 Route::get('/portfolio', function () {
-    return view('/mybio2/portfolio');
+    return view('/mybio/portfolio');
 });
 
 Route::get('/coming_soon', function () {
-    return view('/mybio2/coming_soon');
+    return view('/mybio/coming_soon');
 });
 
 Auth::routes();

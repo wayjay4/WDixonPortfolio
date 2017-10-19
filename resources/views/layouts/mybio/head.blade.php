@@ -18,7 +18,6 @@
 <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
 <!-- Styles -->
-<link href="{{asset('css/app.css')}}" rel="stylesheet" type="text/css">
 <link href="vendor/mobirise/assets/bootstrap-material-design-font/css/material.css" rel="stylesheet" type="text/css">
 <link href="vendor/mobirise/assets/et-line-font-plugin/style.css" rel="stylesheet" type="text/css">
 <link href="vendor/mobirise/assets/tether/tether.min.css" rel="stylesheet" type="text/css">
