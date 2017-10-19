@@ -1,15 +1,14 @@
 
+<!-- Site made with Mobirise Website Builder v3.12.1, https://mobirise.com -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Mobirise v3.12.1, mobirise.com">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="vendor/mobirise/assets/images/logo.png" rel="shortcut icon" type="image/x-icon">
+<meta name="description" content="">
 
 <!-- Needed for ReactJS -->
 <meta name="csrf-token" content="{{ csrf_token() }}">
-
-<!-- Site made with Mobirise Website Builder v3.12.1, https://mobirise.com -->
-<meta name="generator" content="Mobirise v3.12.1, mobirise.com">
-<meta name="description" content="">
-<link href="vendor/mobirise/assets/images/logo.png" rel="shortcut icon" type="image/x-icon">
 
 <title>Waylon Dixon Homepage</title>
 
@@ -21,6 +20,7 @@
 <!-- Styles -->
 <link href="{{asset('css/app.css')}}" rel="stylesheet" type="text/css">
 <link href="vendor/mobirise/assets/bootstrap-material-design-font/css/material.css" rel="stylesheet" type="text/css">
+<link href="vendor/mobirise/assets/et-line-font-plugin/style.css" rel="stylesheet" type="text/css">
 <link href="vendor/mobirise/assets/tether/tether.min.css" rel="stylesheet" type="text/css">
 <link href="vendor/mobirise/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="vendor/mobirise/assets/dropdown/css/style.css" rel="stylesheet" type="text/css">
