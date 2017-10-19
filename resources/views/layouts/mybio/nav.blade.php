@@ -12,8 +12,8 @@
                     <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar">
                       <li class="nav-item"><a class="nav-link link" href="/">HOME</a></li>
                       <li class="nav-item"><a class="nav-link link" href="/about">ABOUT ME</a></li>
-                      <li class="nav-item"><a class="nav-link link" href="http://waylondixon.com/skills_experience.html">EXPERIENCE AND SKILLS</a></li>
-                      <li class="nav-item"><a class="nav-link link" href="http://waylondixon.com/mywork.html">MY WORKS</a></li>
+                      <li class="nav-item"><a class="nav-link link" href="/skills">EXPERIENCE AND SKILLS</a></li>
+                      <li class="nav-item"><a class="nav-link link" href="/portfolio">MY WORKS</a></li>
                     </ul>
 
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">

@@ -19,6 +19,18 @@ Route::get('/about', function () {
     return view('/mybio/about');
 });
 
+Route::get('/skills', function () {
+    return view('/mybio/skills');
+});
+
+Route::get('/portfolio', function () {
+    return view('/mybio/portfolio');
+});
+
+Route::get('/coming_soon', function () {
+    return view('/mybio/coming_soon');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

@@ -13,8 +13,8 @@
 
                       <div class="mbr-section-btn">
                         <a class="btn btn-lg btn-primary" href="/about">About Me</a>
-                        <a class="btn btn-lg btn-primary-outline btn-primary" href="http://waylondixon.com/skills_experience.html">Experience and Skills</a>
-                        <a class="btn btn-lg btn-primary-outline btn-primary" href="http://waylondixon.com/mywork.html">My Work</a>
+                        <a class="btn btn-lg btn-primary-outline btn-primary" href="/skills">Experience and Skills</a>
+                        <a class="btn btn-lg btn-primary-outline btn-primary" href="/portfolio">My Work</a>
                       </div>
                   </div>
               </div>
