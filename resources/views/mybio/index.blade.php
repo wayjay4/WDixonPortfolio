@@ -1,7 +1,7 @@
 @extends('layouts.mybio.master')
 
 @section('content')
-  <section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background" id="header1-1" style="background-image: url(vendor/mobirise/assets/images/mbr-2000x662.jpg);">
+  <section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background" id="header1-1" style="background-image: url(components/vendor/mobirise/assets/images/mbr-2000x662.jpg);">
       <div class="mbr-table-cell">
           <div class="container">
               <div class="row">

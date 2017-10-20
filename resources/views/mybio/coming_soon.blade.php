@@ -2,7 +2,6 @@
 
 @section('content')
   <section class="mbr-section mbr-section-hero mbr-section-full mbr-after-navbar" id="header5-e" style="background-color: rgb(239, 239, 239);">
-
     <div class="mbr-table-cell">
         <div class="container">
             <div class="row">

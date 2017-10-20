@@ -1,8 +1,7 @@
 @extends('layouts.mybio.master')
 
 @section('content')
-  <section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-6" style="background-image: url(vendor/mobirise/assets/images/landscape.jpg);">
-
+  <section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-6" style="background-image: url(components/vendor/mobirise/assets/images/landscape.jpg);">
     <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(0, 0, 0);">
     </div>
 
@@ -36,7 +35,7 @@
 
                         <div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 50%;">
                             <div class="mbr-figure">
-                              <img src="vendor/mobirise/assets/images/mbr-1-1400x933.jpg">
+                              <img src="components/vendor/mobirise/assets/images/mbr-1-1400x933.jpg">
                             </div>
                         </div>
                     </div>
@@ -61,7 +60,6 @@
 </section>
 
 <section class="mbr-cards mbr-section mbr-section-nopadding" id="features6-f" style="background-color: rgb(239, 239, 239);">
-
     <div class="mbr-cards-row row">
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">

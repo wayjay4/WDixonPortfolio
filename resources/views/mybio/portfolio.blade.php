@@ -1,8 +1,7 @@
 @extends('layouts.mybio.master')
 
 @section('content')
-  <section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar" id="header1-9" style="background-image: url(vendor/mobirise/assets/images/mbr-2000x1333.jpg);">
-
+  <section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar" id="header1-9" style="background-image: url(components/vendor/mobirise/assets/images/mbr-2000x1333.jpg);">
     <div class="mbr-table-cell">
         <div class="container">
             <div class="row">
@@ -19,13 +18,12 @@
   </section>
 
   <section class="mbr-cards mbr-section mbr-section-nopadding" id="features3-b" style="background-color: rgb(255, 255, 255);">
-
     <div class="mbr-cards-row row">
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
                   <div class="card-img">
-                    <img src="vendor/mobirise/assets/images/gv-equipment-600x399.png" class="card-img-top">
+                    <img src="components/vendor/mobirise/assets/images/gv-equipment-600x399.png" class="card-img-top">
                   </div>
 
                   <div class="card-block">
@@ -45,7 +43,7 @@
             <div class="container">
                 <div class="card cart-block">
                     <div class="card-img">
-                      <img src="vendor/mobirise/assets/images/bruce-reiprich-600x399.png" class="card-img-top">
+                      <img src="components/vendor/mobirise/assets/images/bruce-reiprich-600x399.png" class="card-img-top">
                     </div>
 
                     <div class="card-block">
@@ -65,7 +63,7 @@
             <div class="container">
                 <div class="card cart-block">
                     <div class="card-img">
-                      <img src="vendor/mobirise/assets/images/nopales-600x399.png" class="card-img-top">
+                      <img src="components/vendor/mobirise/assets/images/nopales-600x399.png" class="card-img-top">
                     </div>
 
                     <div class="card-block">
@@ -85,7 +83,7 @@
             <div class="container">
                 <div class="card cart-block">
                     <div class="card-img">
-                      <img src="vendor/mobirise/assets/images/itask-600x399.png" class="card-img-top">
+                      <img src="components/vendor/mobirise/assets/images/itask-600x399.png" class="card-img-top">
                     </div>
 
                     <div class="card-block">
@@ -104,13 +102,12 @@
   </section>
 
   <section class="mbr-cards mbr-section mbr-section-nopadding" id="features3-a" style="background-color: rgb(255, 255, 255);">
-
     <div class="mbr-cards-row row">
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
                   <div class="card-img">
-                    <img src="vendor/mobirise/assets/images/spacey-maze-600x399.png" class="card-img-top">
+                    <img src="components/vendor/mobirise/assets/images/spacey-maze-600x399.png" class="card-img-top">
                   </div>
 
                   <div class="card-block">
@@ -130,7 +127,7 @@
             <div class="container">
                 <div class="card cart-block">
                     <div class="card-img">
-                      <img src="vendor/mobirise/assets/images/coming-soon-600x399.png" class="card-img-top">
+                      <img src="components/vendor/mobirise/assets/images/coming-soon-600x399.png" class="card-img-top">
                     </div>
 
                     <div class="card-block">
@@ -150,7 +147,7 @@
             <div class="container">
                 <div class="card cart-block">
                     <div class="card-img">
-                      <img src="vendor/mobirise/assets/images/coming-soon-600x399.png" class="card-img-top">
+                      <img src="components/vendor/mobirise/assets/images/coming-soon-600x399.png" class="card-img-top">
                     </div>
 
                     <div class="card-block">
@@ -170,7 +167,7 @@
             <div class="container">
                 <div class="card cart-block">
                     <div class="card-img">
-                      <img src="vendor/mobirise/assets/images/coming-soon-600x399.png" class="card-img-top">
+                      <img src="components/vendor/mobirise/assets/images/coming-soon-600x399.png" class="card-img-top">
                     </div>
 
                     <div class="card-block">

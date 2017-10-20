@@ -4,7 +4,6 @@
         <div class="container">
             <div class="mbr-table">
                 <div class="mbr-table-cell">
-
                     <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="hamburger-icon"></div>
                     </button>

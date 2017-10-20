@@ -31,6 +31,10 @@ Route::get('/coming_soon', function () {
     return view('/mybio/coming_soon');
 });
 
+Route::get('/welcome', function () {
+    return view('/welcome');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
